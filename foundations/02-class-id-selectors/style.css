@@ -1,0 +1,16 @@
+.paragraph-class {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#div2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
